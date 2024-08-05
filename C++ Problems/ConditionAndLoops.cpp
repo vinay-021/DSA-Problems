@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int main(){
+int  main(){
     /*
     int a;
     cin>>a;
@@ -75,6 +75,26 @@ int main(){
     i=i+1;
    }
     */    
+
+   /*
+
+   //Sum of all Even Numbers till N.
+
+   int number,n=2,sum=0;
+   cout<<"Enter Number for which you want to calculate sum for all possible Even Numbers :"<<endl; 
+   cin>>number;
+   for (n = 2; n <= number; n+=2)
+   {
+    sum+=n;
+   }
+   cout<<"Sum of all Even Numbers till "<<number<<" is : "<<sum<<endl;
+
+    */
+   float C,F;
+   cout<<"Enter Temperature in °F : ";
+   cin>>F;
+   C = (F - 32) * 5/9;
+   cout<<"Temperature in °C is : "<<C<<endl;
 
    return 0;
 }
