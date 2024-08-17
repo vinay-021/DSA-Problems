@@ -3,11 +3,11 @@ using namespace std;
 
 int main(){
     
-    
-  /*
-    int n,i=1;
-    cin>>n;
+   // int n,i=1;
+  //  cout<<"Enter the no. of times you want your desired pattern code to be run : ";
+  //  cin>>n;
 
+  /*
     while (i<=n)
     {
         int j=1;
@@ -18,28 +18,28 @@ int main(){
         cout<<endl;
         i=i+1;
     }
-    */
 
+  */
 
   /*
-    int n,i=1;
-    cin>>n;
+   // int n,i=1;
+    //cin>>n;
 
     while (i<=n)
     {
         int j=i;
         while(j<=n){
-            cout<< i;
+            cout<<i<<" ";
             j=j+1;
         }
         cout<<endl;
         i=i+1;
     } 
-    */      
-
+  */     
 
   /*
    int n;
+   cout<<"Enter the no. of times you want your desired pattern code to be run : ";
    cin>> n;
 
    int i=1;
@@ -53,11 +53,11 @@ int main(){
     cout<<endl;
     i=i+1;
    }
-    */
- 
+  */
 
   /*
    int n;
+   cout<<"Enter the no. of times you want your desired pattern code to be run : ";
    cin>> n;
 
    int i=1;
@@ -71,12 +71,13 @@ int main(){
     cout<<endl;
     i=i+1;
    }
-   */
+  */
  
  
-  /* 
+  /*
    int n;
-   cin>>n;
+  cout<<"Enter the no. of times you want your desired pattern code to be run : ";
+  cin>>n;
    int i=1, count =1;
 
    while (i<=n)
@@ -92,9 +93,10 @@ int main(){
    }
    */
     
-  
   /*
+  
   int n;
+  cout<<"Enter the no. of times you want your desired pattern code to be run : ";
   cin>>n;
   int row=1;
   while (row<=n)
@@ -113,6 +115,7 @@ int main(){
 
   /*
   int n;
+  cout<<"Enter the no. of times you want your desired pattern code to be run : ";
   cin>>n;
   int row=1;
   while (row<=n)
@@ -128,9 +131,10 @@ int main(){
   }
   */
 
-  
   /*
+  
   int n;
+  cout<<"Enter the no. of times you want your desired pattern code to be run : ";
   cin>>n;
 
   int i=1, count =1;
@@ -151,6 +155,7 @@ int main(){
 
   /*
   int n;
+  cout<<"Enter the no. of times you want your desired pattern code to be run : ";
   cin>>n;
 
   int i=1;
@@ -165,12 +170,11 @@ int main(){
     }
     cout<<endl;
     i++;    
-  }
-  */
-
+  }*/
 
   /*
   int n;
+  cout<<"Enter the no. of times you want your desired pattern code to be run : ";
   cin>>n;
   int i=1;
   while (i<=n)
@@ -184,12 +188,12 @@ int main(){
     cout<<endl;
     i++;
     
-  }
-  */
+  }*/
  
 
   /*
   int n;
+  cout<<"Enter the no. of times you want your desired pattern code to be run : ";
   cin>>n;
 
   int i=1;
@@ -211,6 +215,7 @@ int main(){
 
   /*
   int n;
+  cout<<"Enter the no. of times you want your desired pattern code to be run : ";
   cin>>n;
 
   int i=1;
@@ -232,6 +237,7 @@ int main(){
 
   /*
   int n;
+  cout<<"Enter the no. of times you want your desired pattern code to be run : ";
   cin>>n;
 
   int i=1;
@@ -252,9 +258,10 @@ int main(){
   }
   */
 
-
-  /*
+/*
+  
   int i=1,n;
+  cout<<"Enter the no. of times you want your desired pattern code to be run : ";
   cin>>n;
   
   while (i<=n)
@@ -268,18 +275,19 @@ int main(){
     }
     cout<<endl;
     i++;    
-  }
+  }*/
 //   5
 // A B C D E
 // B C D E F
 // C D E F G
 // D E F G H
 // E F G H I
-  */
+  
   
 
   /*
   int n,i=1;
+  cout<<"Enter the no. of times you want your desired pattern code to be run : ";
   cin>>n;
   char ch='A';
 
@@ -295,7 +303,7 @@ int main(){
     ch++;
     i++;
     
-  }
+  }*/
 //   5
 // A
 // B B
@@ -303,7 +311,7 @@ int main(){
 // D D D D
 // E E E E E
 
-  */
+
 
 
   /*
@@ -358,8 +366,9 @@ int main(){
   */
 
 
-  /*
+/*
   int n;
+  cout<<"Enter the no. of times you want your desired pattern code to be run : ";
   cin>>n;
   int i=1;
 
@@ -381,11 +390,11 @@ int main(){
 // C D
 // B C D
 // A B C D
+
   */
-  
-  
   /*
   int n,i=1;
+  cout<<"Enter the no. of times you want your desired pattern code to be run : ";
   cin>>n;
 
   while (i<=n)
@@ -415,6 +424,7 @@ int main(){
 
   /*
  int n,i=1;
+ cout<<"Enter the no. of times you want your desired pattern code to be run : ";
   cin>>n;
 
   while (i<=n)
@@ -439,6 +449,7 @@ int main(){
   
   /*
   int n,i=1;
+  cout<<"Enter the no. of times you want your desired pattern code to be run : ";
   cin>>n;
 
   while (i<=n)
@@ -468,6 +479,7 @@ int main(){
   
   /*
   int i=1,n;
+  cout<<"Enter the no. of times you want your desired pattern code to be run : ";
   cin>>n;
   while (i<=n)
   {
@@ -498,6 +510,7 @@ int main(){
   
   /*
   int i=1,n;
+  cout<<"Enter the no. of times you want your desired pattern code to be run : ";
   cin>>n;
 
   while (i<=n)
@@ -528,6 +541,7 @@ int main(){
   
   /*
   int i=1,n;
+  cout<<"Enter the no. of times you want your desired pattern code to be run : ";
   cin>>n;
 
   while (i<=n)
@@ -564,6 +578,7 @@ int main(){
   /*
   int n;
   int i=1;
+  cout<<"Enter the no. of times you want your desired pattern code to be run : ";
   cin>>n;
   int count=1;
   while (i<=n)
@@ -594,6 +609,7 @@ int main(){
 
   /*
   int n,i=1;
+  cout<<"Enter the no. of times you want your desired pattern code to be run : ";
   cin>>n;
 
   while (i<=n)
@@ -629,8 +645,9 @@ int main(){
     */
 
 
-  /* 
+  /*
   int n,i=1;
+  cout<<"Enter the no. of times you want your desired pattern code to be run : ";
   cin>>n;
 
   while (i<=n)

@@ -90,11 +90,6 @@ int  main(){
    cout<<"Sum of all Even Numbers till "<<number<<" is : "<<sum<<endl;
 
     */
-   float C,F;
-   cout<<"Enter Temperature in °F : ";
-   cin>>F;
-   C = (F - 32) * 5/9;
-   cout<<"Temperature in °C is : "<<C<<endl;
 
    return 0;
 }
